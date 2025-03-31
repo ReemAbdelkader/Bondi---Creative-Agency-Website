@@ -3,21 +3,27 @@
 📝 Project Description
 A modern, responsive website for "Bondi" creative agency built with Bootstrap 5, featuring clean design and interactive elements.
 
-🛠️ Technologies Used
-Frontend: HTML5, CSS3, Bootstrap 5
-Icons: Font Awesome
-Fonts: Google Fonts (Roboto)
-Design: Custom CSS with variables
+# Bondi - Creative Agency Website
 
-✨ Key Features
-✅ Fully responsive layout
-✅ Interactive portfolio gallery
-✅ Modern UI components
-✅ Sticky navigation
-✅ Newsletter subscription
-✅ Team showcase section
+## 📝 Project Description
+A modern, responsive website for "Bondi" creative agency built with Bootstrap 5, featuring clean design and interactive elements.
 
-🎨 Design Highlights
+## 🛠️ Technologies Used
+- **Frontend**: HTML5, CSS3, Bootstrap 5
+- **Icons**: Font Awesome
+- **Fonts**: Google Fonts (Roboto)
+- **Design**: Custom CSS with variables
+
+## ✨ Key Features
+- ✅ Fully responsive layout
+- ✅ Interactive portfolio gallery
+- ✅ Modern UI components
+- ✅ Sticky navigation
+- ✅ Newsletter subscription
+- ✅ Team showcase section
+
+## 🎨 Design Highlights
+```css
 :root {
   --dark-color: #19283f;
   --green-color: #33d1cc;
@@ -25,8 +31,10 @@ Design: Custom CSS with variables
   --yellow-btn-color: #ffc400;
   --section-color: #eff7fa;
 }
+```
 
-📁 Project Structure
+## 📁 Project Structure
+```
 bondi/
 ├── css/
 │   ├── bootstrap.min.css
@@ -40,7 +48,8 @@ bondi/
 │   ├── work-*.jpg
 │   └── team-*.png
 └── index.html
+```
 
 
-🔗 Live Demo
-View Demo ()
+## 🔗 Live Demo
+[View Demo](#) (Add your live demo link here)
